@@ -7,7 +7,7 @@ authors:
 Sander Mangel [sander@sandermangel.nl](mailto:sander@sandermangel.nl)
 
 ## SQL
-```mysql
+```sql
 SELECT
 	DATE_FORMAT(`as`.`scheduled_at`,'%Y-%c-%d ') AS `date_scheduled`
 	, `o`.`customer_email`
