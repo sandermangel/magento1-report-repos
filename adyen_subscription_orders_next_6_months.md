@@ -3,6 +3,9 @@
 This projects the orders and it's products for the next six months for the 
 [Adyen Magento Subscription module](https://github.com/Adyen/adyen-magento-subscription)
 
+authors: 
+Sander Mangel [sander@sandermangel.nl](mailto:sander@sandermangel.nl)
+
 ## SQL
 ```mysql
 SELECT
